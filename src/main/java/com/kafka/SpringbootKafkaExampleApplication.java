@@ -6,10 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringbootKafkaExampleApplication {
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootKafkaExampleApplication.class, args);
-		System.out.println("hello" );
+		System.out.println("Hello master branch");
 	}
 
 }
