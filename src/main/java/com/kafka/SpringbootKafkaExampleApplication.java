@@ -10,7 +10,6 @@ public class SpringbootKafkaExampleApplication {
 		SpringApplication.run(SpringbootKafkaExampleApplication.class, args);
 		System.out.println("Hello master branch pull into backupdemo branch");
 		System.out.println("committing into master   conflict modified");
-		System.out.println("committing into master   conflict");
 		System.out.println("this is final code branch");
 	}
 
