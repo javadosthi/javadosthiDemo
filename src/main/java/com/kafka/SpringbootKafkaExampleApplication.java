@@ -9,7 +9,7 @@ public class SpringbootKafkaExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootKafkaExampleApplication.class, args);
-		System.out.println("hello");
+		System.out.println("hello" );
 	}
 
 }
