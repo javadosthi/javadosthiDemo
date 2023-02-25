@@ -8,6 +8,7 @@ public class SpringbootKafkaExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootKafkaExampleApplication.class, args);
+		System.out.println("Hello master branch");
 	}
 
 }
